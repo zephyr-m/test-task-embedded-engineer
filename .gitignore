@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+build/
+simulation/current_loop_result.csv
+*.o
+*.elf
+*.map
+*.bin
+*.hex
